@@ -1,2 +1,11 @@
 #!/bin/bash
-cd "$HOME"
+
+# Change to the user's home directory
+cd ~
+
+# Print the current directory
+pwd
+
+
+           
+
