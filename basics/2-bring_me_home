@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Change to the user's home directory
+
 cd ~
 
-# Print the current directory
-pwd
+
+
 
 
            
